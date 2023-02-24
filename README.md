@@ -16,3 +16,7 @@ npm run start
 4.  you can test the app once everything is bundled and run the start.
 
 http://localhost:8080/
+
+
+additional note:
+Smoothness of the animation when going up and down is not that too perfect because I dont have gsap physics2d plugin because I need to pay for it.
