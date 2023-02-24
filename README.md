@@ -15,6 +15,10 @@ npm run start
 
 4.  you can test the app once everything is bundled and run the start.
 
+
+installation guide video:
+https://www.loom.com/share/1a28d5ff10c5405cbfd2170186eefa81
+
 http://localhost:8080/
 
 
