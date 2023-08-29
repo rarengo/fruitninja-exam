@@ -12,6 +12,9 @@ npm run build
 
 npm run start
 
+Usage:
+```sh
+npm run start```
 
 4.  you can test the app once everything is bundled and run the start.
 
